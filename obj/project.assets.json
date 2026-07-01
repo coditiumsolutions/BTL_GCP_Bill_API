@@ -4553,11 +4553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Qasim\\Project\\API\\Dotnet\\SSQ_LBillCoreAPIWebAzuree\\WebBilling_Lahore_ReactCore.csproj",
+      "projectUniqueName": "C:\\Users\\Software-Qasim\\Desktop\\SSQ_LBillCoreAPIWebAzuree\\WebBilling_Lahore_ReactCore.csproj",
       "projectName": "WebBilling_Lahore_ReactCore",
-      "projectPath": "D:\\Qasim\\Project\\API\\Dotnet\\SSQ_LBillCoreAPIWebAzuree\\WebBilling_Lahore_ReactCore.csproj",
+      "projectPath": "C:\\Users\\Software-Qasim\\Desktop\\SSQ_LBillCoreAPIWebAzuree\\WebBilling_Lahore_ReactCore.csproj",
       "packagesPath": "C:\\Users\\Software-Qasim\\.nuget\\packages\\",
-      "outputPath": "D:\\Qasim\\Project\\API\\Dotnet\\SSQ_LBillCoreAPIWebAzuree\\obj\\",
+      "outputPath": "C:\\Users\\Software-Qasim\\Desktop\\SSQ_LBillCoreAPIWebAzuree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -4593,7 +4593,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -4629,24 +4629,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.27, 8.0.27]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.27, 8.0.27]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.27, 8.0.27]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.27, 8.0.27]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4655,7 +4637,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
