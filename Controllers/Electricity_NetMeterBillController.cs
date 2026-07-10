@@ -156,7 +156,7 @@ namespace WebBilling_Lahore_ReactCore.Controllers
                         : b.PaymentStatus == "Paid With Surcharge"
                         ? (b.BillAmountAfterDueDate ?? 0).ToString()
                         : b.PaymentStatus == "Partially Paid"
-                        ? "Partially Paid"
+                        ? (b.AmountPaid ?? 0).ToString()
                         : "0"
                 })
                 .ToListAsync();

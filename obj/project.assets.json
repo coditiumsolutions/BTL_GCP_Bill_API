@@ -4553,11 +4553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Software-Qasim\\Desktop\\SSQ_LBillCoreAPIWebAzuree\\WebBilling_Lahore_ReactCore.csproj",
+      "projectUniqueName": "D:\\Qasim\\Project\\API\\Dotnet\\BTL_GCP_Bill_API\\WebBilling_Lahore_ReactCore.csproj",
       "projectName": "WebBilling_Lahore_ReactCore",
-      "projectPath": "C:\\Users\\Software-Qasim\\Desktop\\SSQ_LBillCoreAPIWebAzuree\\WebBilling_Lahore_ReactCore.csproj",
+      "projectPath": "D:\\Qasim\\Project\\API\\Dotnet\\BTL_GCP_Bill_API\\WebBilling_Lahore_ReactCore.csproj",
       "packagesPath": "C:\\Users\\Software-Qasim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Software-Qasim\\Desktop\\SSQ_LBillCoreAPIWebAzuree\\obj\\",
+      "outputPath": "D:\\Qasim\\Project\\API\\Dotnet\\BTL_GCP_Bill_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
