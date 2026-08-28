@@ -89,5 +89,6 @@ namespace WebBilling_Lahore_ReactCore.Models
         public decimal? CreditAmount { get; set; }
         public string? FineType { get; set; }
         public DateTime? NMInstallDate { get; set; }
+
     }
 }
